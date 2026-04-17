@@ -16,7 +16,7 @@ function Dashboard() {
       return;
     }
 
-fetch("http://localhost:5000/users", {
+fetch("https://jwt-backend-5sku.onrender.com/users", {
   headers: {
     Authorization: `Bearer ${token}`
   }

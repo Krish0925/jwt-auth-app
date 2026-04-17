@@ -9,7 +9,7 @@ Backend:
 1. Open terminal inside the backend folder
 2. Run: npm install
 3. Run: node server.js
-4. Server will start on http://localhost:5000
+4. Server will start on https://jwt-backend-5sku.onrender.com
 
 Frontend:
 
